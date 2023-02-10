@@ -1,8 +1,8 @@
 # GuiDDoS-Simple
-Simple Gui DDoS Using Python (PySimpleGui)
+Simple Gui DDoS Using Python (~~PySimpleGui~~ Tkinter)
 
 requirement:
-- PySimpleGui
+- Tkinter
 - socket
 - threading
 - random
